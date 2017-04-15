@@ -5,6 +5,7 @@
 ## Links
 
 * [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Xiaomi_Mi_Notebook_Air_13.3)
+* [Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=224345)
 * [MIUI Forums](http://en.miui.com/forum-106-1.html)
 * [Golovin-Andrey/xiaomi-mi-13-ubuntu](https://github.com/Golovin-Andrey/xiaomi-mi-13-ubuntu)
 
