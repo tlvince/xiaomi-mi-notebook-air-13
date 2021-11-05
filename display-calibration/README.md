@@ -1,6 +1,6 @@
 # Display Calibration
 
-[ICC profiles](https://wiki.archlinux.org/index.php/ICC_profiles) by [zluk310884](http://en.miui.com/thread-418478-1-1.html), mirrored with permission.
+[ICC profiles](https://wiki.archlinux.org/index.php/ICC_profiles) by [zluk310884](https://web.archive.org/web/20190921024145/http://en.miui.com/thread-418478-1-1.html), mirrored with permission.
 
 * Calibrator: X-Rite i1Pro 2
 
