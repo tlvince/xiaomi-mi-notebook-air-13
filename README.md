@@ -8,6 +8,7 @@
 * [Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=224345)
 * [MIUI Forums](http://en.miui.com/forum-106-1.html)
 * [Golovin-Andrey/xiaomi-mi-13-ubuntu](https://github.com/Golovin-Andrey/xiaomi-mi-13-ubuntu)
+* [solus-fr/xiaomi13solus](https://framagit.org/solus-fr/xiaomi13solus)
 
 ## License
 

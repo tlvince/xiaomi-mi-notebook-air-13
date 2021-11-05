@@ -14,3 +14,4 @@ Known models:
 
 * [Sharp LQ133M1JW15](sharp-lg133m1jw15) (SHP Model 1447)
 * [Samsung 133HL09-M01](samsung-133hl09-m01)
+* [BOE NV133FHM-N52](boe-nv133fhm-n52)
